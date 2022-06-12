@@ -1,4 +1,4 @@
-### Hello :D !
+### Hello 😎 !
 
 ## I'm Thiago Aragão, a Full-Stack Web Developer.
 
