@@ -3,7 +3,7 @@
 ## I'm Thiago Aragão, a Full-Stack Developer.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; Full-Stack Web Developer gratuated at Le Wagon Bootcamp São Paulo (Batch898).
+- 🎓 &nbsp; Full-Stack Developer gratuated at Le Wagon Bootcamp São Paulo (Batch898).
 - 💡 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 <hr>
 
