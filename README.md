@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Full-Stack Developer gratuated at Le Wagon Bootcamp São Paulo (Batch898).
-- 💡 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 💡 &nbsp; Experience in building and scaling products in an agile way. Growing and learning more everyday challenging myself.
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
