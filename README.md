@@ -3,7 +3,7 @@
 ## I'm Thiago Aragão, a Back-end Developer.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; Full-Stack Developer gratuated at Le Wagon Bootcamp São Paulo (Batch898).
+- 🎓 &nbsp; Back-end Developer gratuated at Le Wagon Bootcamp São Paulo (Batch898).
 - 💡 &nbsp; Experience in building and scaling products in an agile way. Growing and learning more everyday by challenging myself.
 <hr>
 
